@@ -1,4 +1,4 @@
-package ru.kk.task15week.controller;
+package ru.kk.app.controller;
 
 public enum DayOfWeek {
     MONDAY("Понедельник"),
